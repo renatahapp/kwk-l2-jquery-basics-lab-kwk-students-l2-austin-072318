@@ -11,6 +11,7 @@ $(document).ready(function(){
      operator = operator.val(); 
      
      result(num1, num2, operator)
-      
     })
-  }
+    function result(num1, operator, num2){ 
+      num1 
+  }} 

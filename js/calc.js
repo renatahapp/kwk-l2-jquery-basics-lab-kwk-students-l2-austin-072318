@@ -13,7 +13,7 @@ $(document).ready(function(){
      result(num1, num2, operator)
     })
     function result(num1, operator, num2){ 
-      if (operator === *) { 
+      if (operator === x) { 
        let result = num1 * num2
        return result} 
        else if (operator=== / ){ 

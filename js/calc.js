@@ -13,5 +13,8 @@ $(document).ready(function(){
      result(num1, num2, operator)
     })
     function result(num1, operator, num2){ 
-      return result 
+      if (operator === *) { 
+       let result = num1 * num2
+       return result} 
+       
   }} 

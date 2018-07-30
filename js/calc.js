@@ -13,5 +13,5 @@ $(document).ready(function(){
      result(num1, num2, operator)
     })
     function result(num1, operator, num2){ 
-      num1 
+      return result 
   }} 

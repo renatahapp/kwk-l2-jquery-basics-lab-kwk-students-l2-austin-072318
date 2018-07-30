@@ -16,5 +16,15 @@ $(document).ready(function(){
       if (operator === *) { 
        let result = num1 * num2
        return result} 
+       else if (operator=== / ){ 
+         let result = num1 / num2
+         return result } 
+         else if (operator === +) { 
+           let result = num1 + num2 
+           return result} 
+           else if (operator === - ) { 
+             let result = num1 - num2 
+             return result 
+           } 
        
   }} 
